@@ -1,0 +1,1 @@
+Two example project of using hibernate jpamodelgen to generate static metamodel classes. Code in 'codegen-example' is written in java and is working as intended. Code in 'codegen-example-kotlin' is written in kotlin and does not compile. Code used in this example is taken from hibernate tutorial.
